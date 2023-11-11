@@ -8,7 +8,7 @@ import axios from 'axios'
 
 global.owner = [
   ['263719647303', 'Mr Frank', true],
-  ['6281255369012', 'Ash', true], 
+  [''], 
   [''] 
 ] //Number of owners
 
@@ -64,7 +64,7 @@ global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 
-global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _Loading..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
